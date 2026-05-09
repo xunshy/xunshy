@@ -13,7 +13,6 @@
 
 - I’m grateful to live in an open-source world. I love VS Code. ٩( ๑╹ ꇴ╹)۶
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
-- I’m primarily seeking AI R&amp;D / Full-Stack AI developer internships, and remaining open to other.
 - If you’re interested in what I’m building, welcome to join me.
 
 ### Links
