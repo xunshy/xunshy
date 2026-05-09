@@ -40,7 +40,7 @@
 </p>
 
 
-I learn some course columns on [X-Plore](https://github.com/lvy010/X-Plore)(also known as Re:CS). Click the reposity to view details.
+I learn some course columns on [X-Plore](https://github.com/xunshy/X-Plore)(also known as Re:CS). Click the reposity to view details.
 
 > "The mission of learning is to gain an understanding of various designs."
 >
