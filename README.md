@@ -6,7 +6,7 @@
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
   <p>
-    <code>🌱 Born 2005-10-07</code>
+    <code>🌱 Born 2005-03-09</code>
     <code>📍 Across China / Remote.</code>
   </p>
 </div>
@@ -40,8 +40,6 @@
   </a>
 </p>
 
-- **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
-- **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 
 Some column directions I study in [X-Plore](https://github.com/lvy010/X-Plore)（aka Re:CS）, click the repo can view.
 
