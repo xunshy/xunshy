@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&#C98A4A&center=true&pause=100000&lines=Hi,+I'm+lvy.+AI+Full-Stack+Developer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&#C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=FF9500&center=true&pause=100000&lines=Hi,+I'm+lvy.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=FF9500&center=true&vCenter=true&width=780&pause=100000&lines=Third-year+CS+undergraduate+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
     <strong>I am open to internship opportunities in any interesting direction.</strong>
   </p>
   <p>
-    <code>🌱 Born 2005-03-09</code>
+    <code>🌱 Born 2005-10-07</code>
     <code>📍 Across China / Remote.</code>
   </p>
 </div>
@@ -20,7 +20,7 @@
 
 <p>
   <a href="https://lvyovo-wiki.tech/">
-    <img src="https://img.shields.io/badge/BLOG-lvywiki-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+    <img src="https://img.shields.io/badge/BLOG-lvywiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/hhczc/">
     <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
