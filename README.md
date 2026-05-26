@@ -18,7 +18,7 @@
 ### Links
 
 <p>
-  <a href="https://lvyovo-wiki.tech/">
+  <a href="https://xunovo-wiki.tech/">
     <img src="https://img.shields.io/badge/BLOG-lvywiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/hhczc/">
