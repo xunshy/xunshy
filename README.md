@@ -19,7 +19,7 @@
 
 <p>
   <a href="https://xunovo-wiki.tech/">
-    <img src="https://img.shields.io/badge/BLOG-lvywiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
+    <img src="https://img.shields.io/badge/BLOG-xunwiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/hhczc/">
     <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
