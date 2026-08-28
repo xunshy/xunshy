@@ -28,11 +28,8 @@
     <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
-  <a href="https://xhslink.com/m/A0RmObjbu2e">
+  <a href="[https://xhslink.com/m/A0RmObjbu2e]">
     <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
-  </a>
-  <a href="https://space.bilibili.com/3546970173999844?spm_id_from=333.1007.0.0">
-    <img src="https://img.shields.io/badge/Bilibili-lvyneko-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
   </a>
   <a href="https://blog.csdn.net/2301_80171004?type=blog">
     <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
