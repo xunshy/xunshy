@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
-  <a href="[https://xhslink.com/m/A0RmObjbu2e]">
+  <a href="https://xhslink.cn/m/6kJYu2CQ0wc">
     <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
   </a>
   <a href="https://blog.csdn.net/2301_80171004?type=blog">
