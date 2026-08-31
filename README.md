@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LeetCode--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="gallegomaribel567@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-xunovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Gmail-gallegomaribel567%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
   <a href="https://xhslink.cn/m/6kJYu2CQ0wc">
