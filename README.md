@@ -22,17 +22,17 @@
     <img src="https://img.shields.io/badge/BLOG-xunwiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
   <a href="https://leetcode.cn/u/gao-shou-uf">
-    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  <a href="mailto:lvyovo01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+  <a href="gallegomaribel567@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-xunovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
   <a href="https://xhslink.cn/m/6kJYu2CQ0wc">
-    <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
+    <img src="https://img.shields.io/badge/小红书-xunovo-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
   </a>
   <a href="https://blog.csdn.net/2403_88152589?spm=1010.2135.3001.5343">
-    <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
+    <img src="https://img.shields.io/badge/CSDN%20Views%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
   </a>
 </p>
 
