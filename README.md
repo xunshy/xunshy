@@ -11,7 +11,7 @@
   </p>
 </div>
 
-- I’m grateful to live in an open-source world. I love VS Code. ٩( ๑╹ ꇴ╹)۶
+- I’m grateful to live in an open-source world. I love AI coding. ٩( ๑╹ ꇴ╹)۶
 - I’m happy to contribute for free to fun projects & ideas, feel free to email me.
 - If you’re interested in what I’m building, welcome to join me.
 
@@ -21,7 +21,7 @@
   <a href="https://xunovo-wiki.tech/">
     <img src="https://img.shields.io/badge/BLOG-xunwiki-FF9500?style=flat-square&logo=readthedocs&logoColor=white" alt="personal site"/>
   </a>
-  <a href="https://leetcode.cn/u/hhczc/">
+  <a href="https://leetcode.cn/u/gao-shou-uf">
     <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="mailto:lvyovo01@gmail.com">
@@ -31,7 +31,7 @@
   <a href="https://xhslink.cn/m/6kJYu2CQ0wc">
     <img src="https://img.shields.io/badge/小红书-lvyneko-FF2442?style=flat-square&logoColor=white" alt="xiaohongshu"/>
   </a>
-  <a href="https://blog.csdn.net/2301_80171004?type=blog">
+  <a href="https://blog.csdn.net/2403_88152589?spm=1010.2135.3001.5343">
     <img src="https://img.shields.io/badge/CSDN%20Views-1400K%2B-6FA7A0?style=flat-square&logo=bookstack&logoColor=white" alt="CSDN"/>
   </a>
 </p>
