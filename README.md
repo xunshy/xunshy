@@ -6,7 +6,7 @@
   </p>
   <p>
     <code>🌱 Born 2005-03-09</code>
-    <code>📍 Across China / Remote.</code>
+    <code>📍 Remote.</code>
   </p>
 </div>
 
